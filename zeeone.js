@@ -1,3 +1,7 @@
+///
+process.on('uncaughtException', console.error)
+///
+
 const {
    spawn
 } = require('child_process')
