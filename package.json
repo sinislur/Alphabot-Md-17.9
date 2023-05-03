@@ -1,9 +1,9 @@
 {
-  "name": "Alphabot-Md",
+  "name": "wily",
   "version": "17.0.9",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "wily",
   "main": "zeeone.js",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "start": "node zeeone.js"
    },
@@ -14,8 +14,8 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
-  "license": "MIT",
+  "author": "wiy",
+  "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.9",
     "@adiwajshing/keyed-db": "^0.2.4",
